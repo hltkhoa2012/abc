@@ -41,9 +41,9 @@ public class MainActivity extends AppCompatActivity {
                 if(a == 0){
                     if(b==0){
                         if(c==0){
-                            st = "Phương trình vô số nghiệm";
+                            st = "Phương trình vô số nghiệm:";
                         }else {
-                            st = "Phương trình vô nghiệm";
+                            st = "Phương trình vô nghiệm:";
                         }
                     }else {
                         st = "x = " + (-c)/b + "" ;
